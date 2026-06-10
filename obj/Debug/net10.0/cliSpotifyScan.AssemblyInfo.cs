@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cliSpotifyScan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28cba15f29b132efa64903ceeb66b6523d020e50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b8f04e2f6b577a529830a183acbb1d54034a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("cliSpotifyScan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cliSpotifyScan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
