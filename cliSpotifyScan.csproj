@@ -10,6 +10,7 @@
   <ItemGroup>
     <Folder Include="Aplicacion\" />
     <Folder Include="Dominio\" />
+    <Folder Include="XYZ\" />
   </ItemGroup>
 
 </Project>
