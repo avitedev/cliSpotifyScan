@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/Aplicacion/">
+    <File Path="Domain.cs" />
+  </Folder>
+  <Folder Name="/Dominio/" />
+  <Folder Name="/Infraestructura/" />
   <Project Path="cliSpotifyScan.csproj" />
 </Solution>
