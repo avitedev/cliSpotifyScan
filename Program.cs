@@ -8,6 +8,8 @@
             Console.WriteLine("Commit desde VS 2026");
 
             Console.WriteLine("Commit branch jsonRequestSongs");
+
+            Console.ReadKey();
         }
     }
 }
